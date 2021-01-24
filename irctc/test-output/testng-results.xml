@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-25T02:14:29 IST" name="Default suite" finished-at="2021-01-25T02:14:40 IST" duration-ms="10217">
+    <groups>
+    </groups>
+    <test started-at="2021-01-25T02:14:29 IST" name="Default test" finished-at="2021-01-25T02:14:40 IST" duration-ms="10217">
+      <class name="irctc.HomePageTest">
+        <test-method signature="homePageNavigate()[pri:0, instance:irctc.HomePageTest@1e6454ec]" started-at="2021-01-25T02:14:29 IST" name="homePageNavigate" finished-at="2021-01-25T02:14:39 IST" duration-ms="9985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageNavigate -->
+        <test-method signature="navigateToPnrStatusCheck()[pri:0, instance:irctc.HomePageTest@1e6454ec]" started-at="2021-01-25T02:14:39 IST" name="navigateToPnrStatusCheck" finished-at="2021-01-25T02:14:40 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToPnrStatusCheck -->
+      </class> <!-- irctc.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
